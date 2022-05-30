@@ -1,0 +1,10 @@
+baseURL: https://hienanhtran254.github.io/hienanhtran254
+languageCode: en-us
+title: Hien Anh'blog
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
