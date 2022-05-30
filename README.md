@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Hien Anh (you can call me Hien)
 
+Check out this [link](https://hienanhtran254.github.io/HienAnh/) for a full overview of my projects portfolio.
+
+
 <!--
 **hienanhtran254/hienanhtran254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
